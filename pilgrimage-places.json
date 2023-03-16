@@ -1,0 +1,21 @@
+[  {  
+"name": "Taj Mahal",    
+"image": "Images/TajMahal.jpg",    
+"description": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the Yamuna river in the Indian city of Agra." ,
+"virtualExperienceLink":"/pages/TajMahal.html"
+ },  
+{  
+ "name": "Varanasi",    
+"image": "Images/Varanasi.jpg",    
+"description": "Varanasi, also known as Benares or Kashi, is a city on the banks of the Ganges in the Uttar Pradesh state of North India."  ,
+"virtualExperienceLink":"/pages/Varanasi.html"
+}, 
+ {    
+"name": "Golden Temple",    
+"image": "Images/GoldenTemple.jpg",    
+"description": "The Golden Temple is a Sikh gurdwara located in the city of Amritsar, Punjab, India." ,
+"virtualExperienceLink":"/pages/GoldenTemple.html"
+ }]
+
+
+  
