@@ -1,5 +1,6 @@
 # Virtual Visit to Indian Pilgrimage
 <a href="">Visit Website</a>.
+
 This is a project for showcasing virtual tours of various Indian pilgrimage sites using HTML, CSS, and JavaScript. It features a user-friendly interface and integration with Google services to enhance the user experience.
 
 ## About
@@ -42,3 +43,12 @@ Before making a contribution, please make sure to:
 - Write clear and concise commit messages that describe your changes.
 - Test your changes thoroughly to ensure they do not break existing functionality.
 - Update the README.md file with any relevant information about your changes.
+
+## Team
+
+- Swapnil Jadhav (Team Leader)
+- Amey Vanave
+- Shreya Mohite
+- Ram Jadhav
+- Pradnya Deshpande
+- Vaibhav Kshirsagar
